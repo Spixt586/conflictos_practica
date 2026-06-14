@@ -22,6 +22,12 @@ const integrantes = [
         nombre: "Oscar Tipanluisa",
         rol: "Frontend Developer",
         bio: "Especialista en UI. Diseñado la experiencia interactiva en KRAKEDEV"
+    },
+    {
+        id: 4,
+        nombre: "Joshua Vaca",
+        rol: "Data Analyst & Back-End Developer",
+        bio: "Especialsta en la implementación de estructuras de datos, análisis estadístico aplicado y consumo eficiente de librerías gráficas."
     }
 ];
 
