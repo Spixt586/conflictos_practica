@@ -25,7 +25,7 @@ const integrantes = [
     },
     {
         id: 4,
-        nombre: "Joshua Vaca",
+        nombre: "Estudiante B",
         rol: "Data Analyst & Back-End Developer",
         bio: "Especialsta en la implementación de estructuras de datos, análisis estadístico aplicado y consumo eficiente de librerías gráficas."
     }
